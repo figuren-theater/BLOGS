@@ -26,11 +26,11 @@
     {
       "type": "git",
       "url": "https://github.com/figuren-theater/websites.fuer.figuren.theater-demos"
-    }
+    },
     {
       "type": "git",
       "url": "https://github.com/figuren-theater/katharina-muschiol.de"
-    },
+    }
   ],
   "require": {
     "figuren-theater/websites.fuer.figuren.theater-demos": "*",
