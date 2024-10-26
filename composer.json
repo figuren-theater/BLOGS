@@ -30,10 +30,15 @@
     {
       "type": "git",
       "url": "https://github.com/figuren-theater/katharina-muschiol.de"
+    },
+    {
+        "type": "git",
+        "url": "https://github.com/figuren-theater/juliaraab.de"
     }
   ],
   "require": {
     "figuren-theater/websites.fuer.figuren.theater-demos": "*",
-    "figuren-theater/katharina-muschiol.de": "*"
+    "figuren-theater/katharina-muschiol.de": "*",
+    "figuren-theater/juliaraab.de": "*"
   }
 }
